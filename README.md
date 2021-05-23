@@ -1,3 +1,39 @@
+Book Management App
+
+A simple application to display list of books add books edit existing books and delete books from list all stored on local storage.
+
+### Demo
+
+https://localbooks.netlify.app/
+
+## Pre-requisites
+
+- Node.js 9.8.0 and above
+
+## Run
+
+```
+git clone
+cd book-app
+npm i
+```
+
+## Start the dev server
+
+```
+
+npm run start
+
+```
+
+## Build
+
+```
+
+npm run build
+
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
